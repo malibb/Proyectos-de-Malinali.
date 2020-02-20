@@ -23,29 +23,14 @@ Desarrollo de sistemas internos y externos, teniendo interacción con diversas f
 
 [sellfone.mx](https://www.sellfone.mx/)
 
-Participación en la creación del diseño de su página de eccomerce. Total desarrollo de sus sistemas de administración internos.
+Creación del diseño de su página de e-commerce. 
+Desarrollo de sus sistemas de administración internos.
 
-# Header 1
-## Header 2
-### Header 3
-```
-- Bulleted
-- List
+### DC Mayorista
 
-1. Numbered
-2. List
+Desarrollo de sistemas internos de gestión de producto.
 
-**Bold** and _Italic_ and `Code` text
+![LOGO DCM](http://www.dcm.com.mx/images/nuevoIndex/logodcm2014.jpg)
 
-[Link](url) and ![Image](src)
-```
+[dcm.com.mx](http://www.dcm.com.mx/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malibb/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
