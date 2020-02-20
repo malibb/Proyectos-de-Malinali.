@@ -7,12 +7,14 @@ Me encanta el desarrollo de sistemas y de aplicaciones web por la cantidad de ap
 
 Estar en internet es aparecer en el mapa de todos.
 
-### Proyectos Realizados
+## Proyectos Realizados
 
 He trabajado en los sistemas de diversas empresas, en la parte de diseño del sistemas y arquitectura.
 
-```markdown
-Syntax highlighted code block
+```DEV.F
+![LOGO DEVF](https://devf-website.s3.amazonaws.com/static/assets/img/logo-devf-negro.png)
+
+[devf.la](https://devf.la/)
 
 # Header 1
 ## Header 2
