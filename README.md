@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+# Malinali Becerril Bernal
 
-You can use the [editor on GitHub](https://github.com/malibb/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Desarrolladora de software en Dev.f.
+Estudiante de ingeniería en sistemas computacionales.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me encanta el desarrollo de sistemas y de aplicaciones web por la cantidad de aportaciones que se puede dar a las diferentes áreas de estudio y trabajo actual. 
 
-### Markdown
+Estar en internet es aparecer en el mapa de todos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Proyectos Realizados
+
+He trabajado en los sistemas de diversas empresas, en la parte de diseño del sistemas y arquitectura.
 
 ```markdown
 Syntax highlighted code block
