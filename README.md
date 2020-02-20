@@ -11,15 +11,24 @@ Estar en internet es aparecer en el mapa de todos.
 
 He trabajado en los sistemas de diversas empresas, en la parte de diseño del sistemas y arquitectura.
 
-```DEV.F
+### DEV.F
 ![LOGO DEVF](https://devf-website.s3.amazonaws.com/static/assets/img/logo-devf-negro.png)
 
 [devf.la](https://devf.la/)
 
+Desarrollo de sistemas internos y externos, teniendo interacción con diversas funcionalidades.
+
+### SELLFONE
+![LOGO DEVF](https://www.sellfone.mx/wp-content/uploads/2017/01/logos_colores-13.png)
+
+[sellfone.mx](https://www.sellfone.mx/)
+
+Participación en la creación del diseño de su página de eccomerce. Total desarrollo de sus sistemas de administración internos.
+
 # Header 1
 ## Header 2
 ### Header 3
-
+```
 - Bulleted
 - List
 
